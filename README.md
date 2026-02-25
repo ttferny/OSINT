@@ -1,2 +1,2 @@
 # OSINT
-OSINT lab sheet PDF: [astranova.pdf](OSINT/astranova.pdf)
+OSINT lab sheet PDF: [astranova.pdf](/astranova.pdf)
